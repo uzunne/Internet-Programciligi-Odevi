@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header h1 {
+    color: #007bff;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.gameDiv {
+    background-color: #007bff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
